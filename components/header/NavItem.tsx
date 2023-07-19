@@ -30,7 +30,7 @@ function NavItem({ item }: { item: INavItem }) {
                 class="p-6"
                 src={image.src}
                 alt={image.alt}
-                width={300}
+                width={415}
                 height={332}
                 loading="lazy"
               />
